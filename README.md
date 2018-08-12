@@ -2,6 +2,7 @@
 适用于element-ui的省市区联动插件
 
 ## 使用方法
+![image](https://ws1.sinaimg.cn/mw690/006DVXJ3gy1fu6yfv1k7hj30tm0go0ua.jpg)
 
 ### umd引入
 ```html
